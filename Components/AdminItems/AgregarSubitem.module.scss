@@ -1,0 +1,15 @@
+
+.agregarSubitem{
+    width: 8vw;
+    background-color: $secondary;
+    color: $primary;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+    align-self: flex-end;
+    margin-bottom: 1vw;
+    margin-right: 1vw;
+    padding: 0.3vw;
+}

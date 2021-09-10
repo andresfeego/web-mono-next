@@ -1,0 +1,35 @@
+
+
+.adminMarcas{
+    width: 50%;
+    height: 5vw;
+    display: flex;
+    flex-direction: column;
+    padding: 1vw;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+.Form{
+    width: 100%;
+    padding: 0.5vw;
+}
+
+.inputForm{
+    width: 100%;
+}
+
+
+
+.adminSubItems{
+    width: 100%;
+    min-height: 25vw;
+    max-height: 20vw;
+    flex: 1;
+    border: 1px solid $secondary;
+    padding: 0.5vw;
+    border-radius: 20px;
+    position: relative;
+}

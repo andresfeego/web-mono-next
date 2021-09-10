@@ -1,0 +1,11 @@
+.agregarItem{
+    background-color: $primary;
+    height: 2vw;
+    padding: 0.5vw;
+    border-radius: 10px;
+    color: $secondary;
+    cursor: pointer;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+}

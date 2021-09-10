@@ -1,0 +1,35 @@
+.subitems{
+  display: flex;
+  flex-direction: column;
+    
+}
+
+.subitem{
+    width: 100%;
+    height: 1.5vw;
+    display: flex;
+    align-items: center;
+    border-bottom: solid 1px $gray0;
+}
+
+.valor{
+    flex: 1;
+}
+
+.puntaje {
+    width: 3vw;
+}
+
+
+.puntajeTotal{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 6vw;
+}
+
+.puntajeTotal span{
+    margin-left: 2vw;
+}
